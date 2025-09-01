@@ -30,6 +30,8 @@ Driven by curiosity for new technologies, I actively seek out opportunities to l
 <img alt="SQL" src="https://img.shields.io/badge/SQL-%23007ACC.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 I’m dedicated to using my knowledge practically and consistently upgrading my skills to ensure I’m ready for any complex project.
+
+
 ---
 
 
